@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "VeriHealApp",
-    "slug": "VeriHealApp",
+    "slug": "VeriHealApp",   
+    "owner": "muffinlearns",       
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +25,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8cd5e84e-10f9-4d2d-b720-5bb274831f41"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8cd5e84e-10f9-4d2d-b720-5bb274831f41"
     }
   }
 }
