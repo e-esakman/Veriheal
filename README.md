@@ -34,15 +34,15 @@ cd Veriheal
 
 ### Install dependencies:
 
-npm install
+```npm install```
 
 
 Run the app using Expo (Android recommended):
 
-npx expo start
+```npx expo start```
 
 
-Keep your .env file locally for any API keys (this file is not included in the repo for security).
+Keep your .env file locally for any API keys
 
 ### Usage
 
