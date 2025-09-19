@@ -52,7 +52,7 @@ Screens simulate workflow for user registration, wallet connection, ID upload, a
 
 Any integration with wallets or zkTLS is not functional, intended for demonstration purposes.
 
-File Structure
+### File Structure
 
 screens/ – Screens like Profile, Verify, Dashboard
 
