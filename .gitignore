@@ -3,6 +3,14 @@
 # dependencies
 node_modules/
 
+# local env files
+.env
+.env.local
+*.key
+*.pem
+*.jks
+
+
 # Expo
 .expo/
 dist/
